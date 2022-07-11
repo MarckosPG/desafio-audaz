@@ -1,0 +1,7 @@
+C:\Users\marcospaulo\source\repos\Desafio Audaz\Desafio Audaz\obj\Debug\Desafio Audaz.csproj.AssemblyReference.cache
+C:\Users\marcospaulo\source\repos\Desafio Audaz\Desafio Audaz\obj\Debug\Desafio Audaz.csproj.CoreCompileInputs.cache
+C:\Users\marcospaulo\source\repos\Desafio Audaz\Desafio Audaz\bin\Debug\Desafio Audaz.exe.config
+C:\Users\marcospaulo\source\repos\Desafio Audaz\Desafio Audaz\bin\Debug\Desafio Audaz.exe
+C:\Users\marcospaulo\source\repos\Desafio Audaz\Desafio Audaz\bin\Debug\Desafio Audaz.pdb
+C:\Users\marcospaulo\source\repos\Desafio Audaz\Desafio Audaz\obj\Debug\Desafio Audaz.exe
+C:\Users\marcospaulo\source\repos\Desafio Audaz\Desafio Audaz\obj\Debug\Desafio Audaz.pdb
